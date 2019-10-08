@@ -1,3 +1,6 @@
+# A. Kuznetsova 2019
+# column 1: log10(Mdotintopatch) Peak mass flux into a patch within an episode in Msun/yr
+# column 2: P(log10(Mdotinotpatch))
 -6.000000000000000000e+00 1.726266212738509359e-02
 -5.964646464646464530e+00 1.702139719340879306e-02
 -5.929292929292929060e+00 1.641621501025897906e-02
